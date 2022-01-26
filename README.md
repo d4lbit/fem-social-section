@@ -25,7 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
+DESKTOP
+
 ![](./screenshots/desktop.png)
+
+MOBILE
 
 ![](./screenshots/mobile-1.png)
 
